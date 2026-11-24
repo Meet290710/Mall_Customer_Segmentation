@@ -10,7 +10,7 @@ The app includes exploratory data analysis (EDA), feature scaling, cluster visua
 
 ## Project Preview
 
-![Streamlit app preview](screenshots/Screenshot%202026-11-24%20130720.png)
+![Streamlit app preview](screenshots/Ss_1.png)
 
 *The supplied screenshot shows the dashboard's initial state before a CSV is uploaded. Upload `Mall_Customers.csv` in the sidebar to display the analysis and clustering results.*
 
@@ -162,4 +162,4 @@ Project screenshots are stored in the `screenshots/` directory. Add further scre
 
 **Meet Mehta**
 
-Unsupervised Learning — Practical 1
+Unsupervised Learning 
