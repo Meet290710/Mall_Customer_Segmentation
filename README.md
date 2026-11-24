@@ -144,20 +144,6 @@ jupyter notebook UL_PR1.ipynb
 
 Alternatively, open `UL_PR1.ipynb` directly in VS Code or Jupyter Notebook. The `UL_PR1.html` file is the exported, browser-viewable report.
 
-## Screenshots
-
-Project screenshots are stored in the `screenshots/` directory. Add further screenshots there after uploading the dataset and showing the results of each algorithm. Use relative paths in this README, for example:
-
-```markdown
-![K-Means results](screenshots/kmeans-results.png)
-```
-
-## Notes
-
-- Do not upload your local virtual environment (`venv/`) to GitHub. It is excluded by `.gitignore`.
-- Keep the dataset in the `data/` folder for a consistent project layout, even though the app currently asks you to upload the CSV through the sidebar.
-- The screenshot included here is the initial app screen; it is not a screenshot of the clustering output.
-
 ## Author
 
 **Meet Mehta**
