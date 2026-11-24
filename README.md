@@ -14,6 +14,10 @@ The app includes exploratory data analysis (EDA), feature scaling, cluster visua
 
 *The supplied screenshot shows the dashboard's initial state before a CSV is uploaded. Upload `Mall_Customers.csv` in the sidebar to display the analysis and clustering results.*
 
+🚀 Live Project
+
+Click Here to Open Mall Customer Segmentation App
+
 ## Directory Structure
 
 ```text
